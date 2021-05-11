@@ -1,12 +1,13 @@
 import copy
 import csv
 
-#something to see how git work
+# something to see how git work
+
 
 # function to clone a list
 def cloning(list1):
     list_copy = copy.deepcopy(list1)
-    return list_copy
+    return list_copy~
 
 
 # function to check if scanning is finished
