@@ -2,6 +2,7 @@ import copy
 import csv
 
 # something to see how git work
+# testing from working copy, using Texastic
 
 
 # function to clone a list
